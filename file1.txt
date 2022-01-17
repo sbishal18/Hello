@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hello2 
 
 Modified Locally
@@ -5,3 +6,7 @@ Modified Locally
 master branch
 
 
+=======
+Hi - Main
+Updated locally
+>>>>>>> b79648b (Second Commit to Main Branch)
